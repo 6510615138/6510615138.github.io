@@ -109,10 +109,9 @@ article{
     margin: auto 100px;
 }
 .profile .pfp:hover {
-    transition: 200ms;
-    scale: 1.1;
-    cursor: pointer;
-    border-radius: 170px;
+  transform: scale(1.05);
+  cursor: pointer;
+  border-radius: 80px;
 }
 
 
